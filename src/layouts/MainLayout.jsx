@@ -11,6 +11,7 @@ import Attraction from '../component/Attraction';
 import City from '../component/City';
 import Icon from '../component/Icon' 
 import Footer from '../component/Footer'
+import Popup from '../component/Popup'
 
 const MainLayout = ({ children }) => {
   return (
@@ -30,6 +31,7 @@ const MainLayout = ({ children }) => {
       <Tours />
       <Blog />
       <Footer />
+      <Popup />
     </div>
   );
 };

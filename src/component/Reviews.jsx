@@ -137,7 +137,7 @@ const Testimonials = () => {
             Bolli and his team helped me plan a trip for my family to Japan on very short notice. We engaged only a few weeks before traveling and it was very efficient.
           </ReviewText>
           <ReviewerInfo>
-            <ReviewerImage src="https://via.placeholder.com/40" alt="Ameer Sherif" />
+            <ReviewerImage src="./images/default.png" alt="Ameer Sherif" />
             <ReviewerName>
               <span className="name">Ameer Sherif</span>
               <span className="date">Jul 16, 2024</span>
@@ -155,7 +155,7 @@ const Testimonials = () => {
             Had a great interaction with their customer service booking a group of 10 for an activity. 10/10 would recommend!
           </ReviewText>
           <ReviewerInfo>
-            <ReviewerImage src="https://via.placeholder.com/40" alt="Tinna Pétursdóttir" />
+            <ReviewerImage src="./images/default.png" alt="Tinna Pétursdóttir" />
             <ReviewerName>
               <span className="name">Tinna Pétursdóttir</span>
               <span className="date">Jun 13, 2024</span>
@@ -173,7 +173,7 @@ const Testimonials = () => {
             A heartfelt thank you to the team at Trip to Japan; Bolli, Hildur, Thelma, and Guðrún Helga. Your attention to detail truly made our Japan tour extraordinary.
           </ReviewText>
           <ReviewerInfo>
-            <ReviewerImage src="https://via.placeholder.com/40" alt="Jórunn Rothenborg" />
+            <ReviewerImage src="./images/default.png" alt="Jórunn Rothenborg" />
             <ReviewerName>
               <span className="name">Jórunn Rothenborg</span>
               <span className="date">Aug 6, 2024</span>
